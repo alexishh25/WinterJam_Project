@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: cd234382e12e3cd41b7118ab2b96da2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5916841702753673580
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_0
+  - first:
+      213: 5382203810805451749
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_1
+  - first:
+      213: -2711292748011057463
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_2
+  - first:
+      213: 187856041203030634
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_3
+  - first:
+      213: 3600685701668791298
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_4
+  - first:
+      213: 500462632444156764
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_5
+  - first:
+      213: 81259676939751694
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_6
+  - first:
+      213: 6618108556388521719
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_7
+  - first:
+      213: -8037632278840675418
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_8
+  - first:
+      213: 2087336779034634859
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_9
+  - first:
+      213: 6036142134951610980
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_10
+  - first:
+      213: -5429041112093001305
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_11
+  - first:
+      213: -3217475259246580819
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_12
+  - first:
+      213: -2513743914247314828
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_13
+  - first:
+      213: -6708068445364959810
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_14
+  - first:
+      213: -7111660279104601694
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_15
+  - first:
+      213: 7387670313320541201
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_16
+  - first:
+      213: 4770703997357279884
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_17
+  - first:
+      213: -757649230176086785
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_18
+  - first:
+      213: 5379751750024894126
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_19
+  - first:
+      213: -1237833860177975840
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_20
+  - first:
+      213: 2216116862372318980
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_21
+  - first:
+      213: 8138471933641395915
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_22
+  - first:
+      213: 6922195851520767700
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_23
+  - first:
+      213: -8844386428175443857
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_24
+  - first:
+      213: -4151170145189611053
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_25
+  - first:
+      213: -7181542644431096818
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_26
+  - first:
+      213: 3169298399073123057
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_27
+  - first:
+      213: 6724890487581912650
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_28
+  - first:
+      213: 6425345424772633347
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_29
+  - first:
+      213: -3630015766945392060
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_30
+  - first:
+      213: -877585532314535917
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_31
+  - first:
+      213: 4885538383093114628
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_32
+  - first:
+      213: 4921462796742391226
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_33
+  - first:
+      213: 7719872141049488242
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_34
+  - first:
+      213: 5719585779458299567
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_35
+  - first:
+      213: -2605065775239341103
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_36
+  - first:
+      213: 8052603116895764345
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_37
+  - first:
+      213: 2200391490612397195
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_38
+  - first:
+      213: -3500412704067741674
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_39
+  - first:
+      213: -1130819405252253744
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_40
+  - first:
+      213: 723790096539331629
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_41
+  - first:
+      213: -1454484123315647297
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_42
+  - first:
+      213: 5740661853937571828
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_43
+  - first:
+      213: -8083007045161167699
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_44
+  - first:
+      213: 443450047277081799
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_45
+  - first:
+      213: -3839845188015693138
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_46
+  - first:
+      213: -2300920608747134410
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_47
+  - first:
+      213: -4846754288865847579
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_48
+  - first:
+      213: -1376164192517595424
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_49
+  - first:
+      213: -2565850277194417343
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_50
+  - first:
+      213: 6027188277162791015
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_51
+  - first:
+      213: 3844697198690205070
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_52
+  - first:
+      213: -1262731389495928617
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_53
+  - first:
+      213: 8298151148001359514
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_54
+  - first:
+      213: -2631129672287884013
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_55
+  - first:
+      213: -3740278156953803730
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_56
+  - first:
+      213: -1444865813896308336
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_57
+  - first:
+      213: 8232065025078305063
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_58
+  - first:
+      213: 7708039955096741483
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_59
+  - first:
+      213: -2052824095435340514
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_60
+  - first:
+      213: -8988465421548402677
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_61
+  - first:
+      213: -3437381067284655577
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_62
+  - first:
+      213: 6144366475491370997
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_63
+  - first:
+      213: 1040755377661403967
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_64
+  - first:
+      213: 571605461448808907
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_65
+  - first:
+      213: -7157161160014610947
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_66
+  - first:
+      213: -8682900327452631498
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_67
+  - first:
+      213: -504591609703406492
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_68
+  - first:
+      213: -1269461763688999758
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_69
+  - first:
+      213: -5692118668852307283
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_70
+  - first:
+      213: 329422428769971788
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_71
+  - first:
+      213: 2413172013423690620
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_72
+  - first:
+      213: -3437885431757722195
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_73
+  - first:
+      213: 4064836507254849461
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_74
+  - first:
+      213: -5851455614004335513
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_75
+  - first:
+      213: -1547080442912526473
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_76
+  - first:
+      213: 8814352722627988360
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_77
+  - first:
+      213: -471214804003839213
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_78
+  - first:
+      213: 2308408832390673437
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_79
+  - first:
+      213: -1031056392112746773
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_80
+  - first:
+      213: -1068366765629480354
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_81
+  - first:
+      213: 8693172820763852044
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_82
+  - first:
+      213: 9144952002516550737
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_83
+  - first:
+      213: 7339385020787838622
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_84
+  - first:
+      213: -1353133708963968368
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_85
+  - first:
+      213: -7569367089307298215
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_86
+  - first:
+      213: -2220855945870980013
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_87
+  - first:
+      213: -2413431795103510497
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_88
+  - first:
+      213: 2847315114238406610
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_89
+  - first:
+      213: 5397866065934340333
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_90
+  - first:
+      213: 3014317181614624105
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_91
+  - first:
+      213: 828712896671958522
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_92
+  - first:
+      213: 956113345791512177
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_93
+  - first:
+      213: 7175201399140181149
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_94
+  - first:
+      213: 6559575943514459908
+    second: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2540
+        width: 218
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e5623f1d723eda0800000000000000
+      internalID: -5916841702753673580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2540
+        width: 206
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb00db89dd61ba40800000000000000
+      internalID: 5382203810805451749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2540
+        width: 209
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce45b85c9d8f5ad0800000000000000
+      internalID: -2711292748011057463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2540
+        width: 216
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a51dcf2166b9200800000000000000
+      internalID: 187856041203030634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_4
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 2540
+        width: 216
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204ebc3819438f130800000000000000
+      internalID: 3600685701668791298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_5
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 2540
+        width: 208
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bd036dc1002f600800000000000000
+      internalID: 500462632444156764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_6
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2540
+        width: 204
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e019e82ee31b02100800000000000000
+      internalID: 81259676939751694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_7
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 2540
+        width: 207
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6d284faae38db50800000000000000
+      internalID: 6618108556388521719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_8
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 2540
+        width: 209
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3fc701708947090800000000000000
+      internalID: -8037632278840675418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_9
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 2695
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6aa7f8cdb5b7fc10800000000000000
+      internalID: 2087336779034634859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2292
+        width: 218
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a0f877a4fa4c350800000000000000
+      internalID: 6036142134951610980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2292
+        width: 206
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a974b27fdb28a4b0800000000000000
+      internalID: -5429041112093001305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_12
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2291
+        width: 209
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabeff27c4b3953d0800000000000000
+      internalID: -3217475259246580819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_13
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2291
+        width: 216
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4722df67a336d1dd0800000000000000
+      internalID: -2513743914247314828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 2291
+        width: 216
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5c3013a4728e2a0800000000000000
+      internalID: -6708068445364959810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_15
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 2291
+        width: 208
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a107b4c7ae4e4d90800000000000000
+      internalID: -7111660279104601694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_16
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2292
+        width: 204
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c6b272207468660800000000000000
+      internalID: 7387670313320541201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_17
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2291
+        width: 209
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a44036202f43240800000000000000
+      internalID: 4770703997357279884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2034
+        width: 218
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff491031a0a4c75f0800000000000000
+      internalID: -757649230176086785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_19
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2034
+        width: 206
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea61508a6b7b8aa40800000000000000
+      internalID: 5379751750024894126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_20
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2034
+        width: 209
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5242999a452dee0800000000000000
+      internalID: -1237833860177975840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_21
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2034
+        width: 216
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f847a7b8a31ce10800000000000000
+      internalID: 2216116862372318980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_22
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2205
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce8e2baa19a1f070800000000000000
+      internalID: 8138471933641395915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_23
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 2034
+        width: 231
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6f39b9374901060800000000000000
+      internalID: 6922195851520767700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_24
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 2034
+        width: 231
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f681154376d624580800000000000000
+      internalID: -8844386428175443857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_25
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2178
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d934cd2fb41466c0800000000000000
+      internalID: -4151170145189611053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_26
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2034
+        width: 231
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e047d5ba309065c90800000000000000
+      internalID: -7181542644431096818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_27
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 2178
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fab7ff2a1c9bfb20800000000000000
+      internalID: 3169298399073123057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1781
+        width: 218
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e29b9b44c935d50800000000000000
+      internalID: 6724890487581912650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1781
+        width: 206
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30311c2fe996b2950800000000000000
+      internalID: 6425345424772633347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_30
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1781
+        width: 209
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a172284e79f9dc0800000000000000
+      internalID: -3630015766945392060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_31
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1781
+        width: 216
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318be56ab9032d3f0800000000000000
+      internalID: -877585532314535917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_32
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1781
+        width: 207
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4072dc4564becc340800000000000000
+      internalID: 4885538383093114628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_33
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1781
+        width: 209
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5712fa65c8c4440800000000000000
+      internalID: 4921462796742391226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_34
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1941
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27360b68fce722b60800000000000000
+      internalID: 7719872141049488242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1530
+        width: 218
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6dcf676fc006f40800000000000000
+      internalID: 5719585779458299567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_36
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1530
+        width: 206
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbd45aca72f8dbd0800000000000000
+      internalID: -2605065775239341103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_37
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1530
+        width: 209
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f76cbced790cf60800000000000000
+      internalID: 8052603116895764345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_38
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1530
+        width: 216
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b848ebc076c598e10800000000000000
+      internalID: 2200391490612397195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_39
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1530
+        width: 216
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61817ce01390c6fc0800000000000000
+      internalID: -3500412704067741674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_40
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1530
+        width: 207
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d722d40eb58e40f0800000000000000
+      internalID: -1130819405252253744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_41
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1530
+        width: 209
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c2c2c024b6b0a00800000000000000
+      internalID: 723790096539331629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_42
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1692
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc43526562a0dbe0800000000000000
+      internalID: -1454484123315647297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 218
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f795937a8deaaf40800000000000000
+      internalID: 5740661853937571828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1284
+        width: 206
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da450340be363df80800000000000000
+      internalID: -8083007045161167699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_45
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1284
+        width: 209
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4a49fe773772600800000000000000
+      internalID: 443450047277081799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_46
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1284
+        width: 216
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2e4d7552126bac0800000000000000
+      internalID: -3839845188015693138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_47
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1447
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632604ba5ec7110e0800000000000000
+      internalID: -2300920608747134410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_48
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1284
+        width: 219
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6dc8a47aedcbcb0800000000000000
+      internalID: -4846754288865847579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_49
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1285
+        width: 206
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee506845f1e6ece0800000000000000
+      internalID: -1376164192517595424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_50
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1285
+        width: 209
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b3df074c4446cd0800000000000000
+      internalID: -2565850277194417343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_51
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1285
+        width: 216
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760dfaefdcfd4a350800000000000000
+      internalID: 6027188277162791015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_52
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1285
+        width: 215
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d7edc6bbb1b5530800000000000000
+      internalID: 3844697198690205070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1034
+        width: 218
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d81c52dd70e97ee0800000000000000
+      internalID: -1262731389495928617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_54
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1034
+        width: 206
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96fe1de084f82370800000000000000
+      internalID: 8298151148001359514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_55
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1034
+        width: 209
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d6a4dd0895c7bd0800000000000000
+      internalID: -2631129672287884013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_56
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1034
+        width: 216
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24ad9545dcd71cc0800000000000000
+      internalID: -3740278156953803730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_57
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1186
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099da9e823ec2fbe0800000000000000
+      internalID: -1444865813896308336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_58
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1034
+        width: 208
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721a5b3668b2e3270800000000000000
+      internalID: 8232065025078305063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_59
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1034
+        width: 204
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b662f0e008578fa60800000000000000
+      internalID: 7708039955096741483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 777
+        width: 218
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15c63d8c57e283e0800000000000000
+      internalID: -2052824095435340514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_61
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 777
+        width: 206
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08c9b0725e824380800000000000000
+      internalID: -8988465421548402677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_62
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 777
+        width: 209
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72258de9128fb40d0800000000000000
+      internalID: -3437381067284655577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_63
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 777
+        width: 216
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f76b7551cc254550800000000000000
+      internalID: 6144366475491370997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_64
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 777
+        width: 208
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33e5977081817e00800000000000000
+      internalID: 1040755377661403967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_65
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 776
+        width: 204
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc954518320cee700800000000000000
+      internalID: 571605461448808907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_66
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 776
+        width: 207
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd3b1168d7acac90800000000000000
+      internalID: -7157161160014610947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_67
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 777
+        width: 209
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e101af724208780800000000000000
+      internalID: -8682900327452631498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_68
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 942
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4646cfaba945ff8f0800000000000000
+      internalID: -504591609703406492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 218
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b450677047f16ee0800000000000000
+      internalID: -1269461763688999758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_70
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 516
+        width: 209
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa50b39a388101b0800000000000000
+      internalID: -5692118668852307283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_71
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 686
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e61ef14f7529400800000000000000
+      internalID: 329422428769971788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_72
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 516
+        width: 219
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c738802292f4d7120800000000000000
+      internalID: 2413172013423690620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_73
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 516
+        width: 209
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad279d1a6d2a40d0800000000000000
+      internalID: -3437885431757722195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_74
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 516
+        width: 219
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bff6f45443396830800000000000000
+      internalID: 4064836507254849461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_75
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 516
+        width: 209
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c6e441f147bcea0800000000000000
+      internalID: -5851455614004335513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_76
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 666
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fae31b88aa78ae0800000000000000
+      internalID: -1547080442912526473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_77
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 516
+        width: 219
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b0d3dc91fd25a70800000000000000
+      internalID: 8814352722627988360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_78
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 516
+        width: 209
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3132272e1a8e579f0800000000000000
+      internalID: -471214804003839213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_79
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 666
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1435034a9d190020800000000000000
+      internalID: 2308408832390673437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 218
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee49b49ca3f0b1f0800000000000000
+      internalID: -1031056392112746773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_81
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 255
+        width: 209
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5262dc46166c21f0800000000000000
+      internalID: -1068366765629480354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_82
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 429
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0db5b04f9a54a870800000000000000
+      internalID: 8693172820763852044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_83
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 255
+        width: 219
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1540ffde46569ee70800000000000000
+      internalID: 9144952002516550737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_84
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 255
+        width: 209
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ec1e96acbbad560800000000000000
+      internalID: 7339385020787838622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_85
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 409
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a88979f04b83de0800000000000000
+      internalID: -1353133708963968368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_86
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 255
+        width: 219
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9565e4b8cb434f690800000000000000
+      internalID: -7569367089307298215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_87
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 255
+        width: 209
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ccb09a84fed21e0800000000000000
+      internalID: -2220855945870980013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_88
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 389
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10d83bb194c18ed0800000000000000
+      internalID: -2413431795103510497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_89
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 255
+        width: 220
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfe7cbb202b38720800000000000000
+      internalID: 2847315114238406610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_90
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 255
+        width: 209
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0d62d769219ea40800000000000000
+      internalID: 5397866065934340333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 208
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d0f72918105d920800000000000000
+      internalID: 3014317181614624105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_92
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 162
+        width: 81
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5cae22dfd208b00800000000000000
+      internalID: 828712896671958522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_93
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 209
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ec9e4b50cc44d00800000000000000
+      internalID: 956113345791512177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_94
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 209
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94e2ab18af639360800000000000000
+      internalID: 7175201399140181149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_95
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 162
+        width: 81
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f8066019b480b50800000000000000
+      internalID: 6559575943514459908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_0: -5916841702753673580
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_1: 5382203810805451749
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_10: 6036142134951610980
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_11: -5429041112093001305
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_12: -3217475259246580819
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_13: -2513743914247314828
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_14: -6708068445364959810
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_15: -7111660279104601694
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_16: 7387670313320541201
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_17: 4770703997357279884
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_18: -757649230176086785
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_19: 5379751750024894126
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_2: -2711292748011057463
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_20: -1237833860177975840
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_21: 2216116862372318980
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_22: 8138471933641395915
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_23: 6922195851520767700
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_24: -8844386428175443857
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_25: -4151170145189611053
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_26: -7181542644431096818
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_27: 3169298399073123057
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_28: 6724890487581912650
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_29: 6425345424772633347
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_3: 187856041203030634
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_30: -3630015766945392060
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_31: -877585532314535917
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_32: 4885538383093114628
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_33: 4921462796742391226
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_34: 7719872141049488242
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_35: 5719585779458299567
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_36: -2605065775239341103
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_37: 8052603116895764345
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_38: 2200391490612397195
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_39: -3500412704067741674
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_4: 3600685701668791298
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_40: -1130819405252253744
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_41: 723790096539331629
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_42: -1454484123315647297
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_43: 5740661853937571828
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_44: -8083007045161167699
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_45: 443450047277081799
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_46: -3839845188015693138
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_47: -2300920608747134410
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_48: -4846754288865847579
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_49: -1376164192517595424
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_5: 500462632444156764
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_50: -2565850277194417343
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_51: 6027188277162791015
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_52: 3844697198690205070
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_53: -1262731389495928617
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_54: 8298151148001359514
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_55: -2631129672287884013
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_56: -3740278156953803730
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_57: -1444865813896308336
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_58: 8232065025078305063
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_59: 7708039955096741483
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_6: 81259676939751694
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_60: -2052824095435340514
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_61: -8988465421548402677
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_62: -3437381067284655577
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_63: 6144366475491370997
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_64: 1040755377661403967
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_65: 571605461448808907
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_66: -7157161160014610947
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_67: -8682900327452631498
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_68: -504591609703406492
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_69: -1269461763688999758
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_7: 6618108556388521719
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_70: -5692118668852307283
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_71: 329422428769971788
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_72: 2413172013423690620
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_73: -3437885431757722195
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_74: 4064836507254849461
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_75: -5851455614004335513
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_76: -1547080442912526473
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_77: 8814352722627988360
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_78: -471214804003839213
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_79: 2308408832390673437
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_8: -8037632278840675418
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_80: -1031056392112746773
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_81: -1068366765629480354
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_82: 8693172820763852044
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_83: 9144952002516550737
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_84: 7339385020787838622
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_85: -1353133708963968368
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_86: -7569367089307298215
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_87: -2220855945870980013
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_88: -2413431795103510497
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_89: 2847315114238406610
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_9: 2087336779034634859
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_90: 5397866065934340333
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_91: 3014317181614624105
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_92: 828712896671958522
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_93: 956113345791512177
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_94: 7175201399140181149
+      PlayStation 2 - Persona 4 - Characters - Yosuke Hanamura_95: 6559575943514459908
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

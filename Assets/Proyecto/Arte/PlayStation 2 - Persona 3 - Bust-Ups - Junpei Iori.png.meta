@@ -1,0 +1,4095 @@
+fileFormatVersion: 2
+guid: 94fd57f292a9d0c49a2699e1b8b948c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1642101406900534971
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_0
+  - first:
+      213: 3569032832745124260
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_1
+  - first:
+      213: 6214702471074127532
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_2
+  - first:
+      213: -2130293685479486747
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_3
+  - first:
+      213: 7699819655197901957
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_4
+  - first:
+      213: 3704601991851743171
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_5
+  - first:
+      213: 4389736479162199082
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_6
+  - first:
+      213: -3589003490192589207
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_7
+  - first:
+      213: 6138627908874180844
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_8
+  - first:
+      213: -5284210969506102174
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_9
+  - first:
+      213: 7438291623012558355
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_10
+  - first:
+      213: 2898486615041656450
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_11
+  - first:
+      213: -2697069929119109769
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_12
+  - first:
+      213: 8457666890226112107
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_13
+  - first:
+      213: -7949031064358287930
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_14
+  - first:
+      213: 4565944380320900652
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_15
+  - first:
+      213: 5538212715438657881
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_16
+  - first:
+      213: 8505556197161246014
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_17
+  - first:
+      213: -6306348959397964154
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_18
+  - first:
+      213: -2473372562831042732
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_19
+  - first:
+      213: -7395964912961675222
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_20
+  - first:
+      213: -5264655611586443707
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_21
+  - first:
+      213: -7798080149963432745
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_22
+  - first:
+      213: 4249539808322727066
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_23
+  - first:
+      213: 65278187720151869
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_24
+  - first:
+      213: -4382730508485138025
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_25
+  - first:
+      213: -8570312238329167000
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_26
+  - first:
+      213: 1632257282323132604
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_27
+  - first:
+      213: 2722652292312915357
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_28
+  - first:
+      213: 1647690979932003865
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_29
+  - first:
+      213: -6331206857433009160
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_30
+  - first:
+      213: 311595510576874469
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_31
+  - first:
+      213: 4552904187446678021
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_32
+  - first:
+      213: -2937309461005128209
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_33
+  - first:
+      213: 3117978918182197335
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_34
+  - first:
+      213: 1980371865812313547
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_35
+  - first:
+      213: 6707216788659532953
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_36
+  - first:
+      213: 5224336907278064295
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_37
+  - first:
+      213: -8030706005957988848
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_38
+  - first:
+      213: 8973822546429537034
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_39
+  - first:
+      213: 1880685306270602482
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_40
+  - first:
+      213: -7206112267549838938
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_41
+  - first:
+      213: -8471634310894834228
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_42
+  - first:
+      213: -7643508464403845445
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_43
+  - first:
+      213: 4389998682434430734
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_44
+  - first:
+      213: -1395306144834461747
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_45
+  - first:
+      213: -525650258402626798
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_46
+  - first:
+      213: -605851482592300393
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_47
+  - first:
+      213: 4670055204426845731
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_48
+  - first:
+      213: -3825027612626776554
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_49
+  - first:
+      213: -2230981434821322484
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_50
+  - first:
+      213: -868144860828895095
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_51
+  - first:
+      213: -154160061158410767
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_52
+  - first:
+      213: -6421167368191539033
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_53
+  - first:
+      213: -92992693943509433
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_54
+  - first:
+      213: 2827067839894178011
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_55
+  - first:
+      213: 7742857241432133082
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_56
+  - first:
+      213: 2168112570436270177
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_57
+  - first:
+      213: -2876479504179835455
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_58
+  - first:
+      213: -2706987578170373045
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_59
+  - first:
+      213: 22099780458463148
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_60
+  - first:
+      213: -1629671860821379622
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_61
+  - first:
+      213: 6718911984298923140
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_62
+  - first:
+      213: 6146945929428214299
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_63
+  - first:
+      213: 7383888641489929018
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_64
+  - first:
+      213: 4991616035857176643
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_65
+  - first:
+      213: 7477883581339744450
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_66
+  - first:
+      213: -2205546216563018566
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_67
+  - first:
+      213: 2626826326640224299
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_68
+  - first:
+      213: -3832667505299682830
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_69
+  - first:
+      213: 3588724340912607019
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_70
+  - first:
+      213: 4817316788947292847
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_71
+  - first:
+      213: 5753744074375983452
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_72
+  - first:
+      213: 6327058932969050680
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_73
+  - first:
+      213: -1305832979108870085
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_74
+  - first:
+      213: 710567433704754920
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_75
+  - first:
+      213: 7198515243402143295
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_76
+  - first:
+      213: -6827661260466134641
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_77
+  - first:
+      213: 8518516415035256136
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_78
+  - first:
+      213: 3722402811834351121
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_79
+  - first:
+      213: 4100511216127069012
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_80
+  - first:
+      213: -8358512576987860347
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_81
+  - first:
+      213: 210052625780853106
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_82
+  - first:
+      213: -1316812396405154438
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_83
+  - first:
+      213: 2129095435436039451
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_84
+  - first:
+      213: 150515831926061673
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_85
+  - first:
+      213: -639474516384789984
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_86
+  - first:
+      213: -5905448756596441192
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_87
+  - first:
+      213: 4625576327158547819
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_88
+  - first:
+      213: 5081542200572576592
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_89
+  - first:
+      213: 4789951469512173843
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_90
+  - first:
+      213: -2992263207803324533
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_91
+  - first:
+      213: -3138651096141817652
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_92
+  - first:
+      213: 8639958055135692513
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_93
+  - first:
+      213: 6428005655897256745
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_94
+  - first:
+      213: 7906629731953293356
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_95
+  - first:
+      213: -6140505304505642726
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_96
+  - first:
+      213: -5559619548148254113
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_97
+  - first:
+      213: -4310681804690763721
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_98
+  - first:
+      213: 216558386613428091
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_99
+  - first:
+      213: 3701640325129417492
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_100
+  - first:
+      213: 1446815878467258388
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_101
+  - first:
+      213: 4739224595872292284
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_102
+  - first:
+      213: 2585611605809126100
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_103
+  - first:
+      213: 9161914965871373626
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_104
+  - first:
+      213: 2493375072107383946
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_105
+  - first:
+      213: -7903415081555492318
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_106
+  - first:
+      213: -363516378994373602
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_107
+  - first:
+      213: -5801641006473096817
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_108
+  - first:
+      213: 2489801784904476358
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_109
+  - first:
+      213: 6351557354298317062
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_110
+  - first:
+      213: -566839033098331672
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_111
+  - first:
+      213: -4850124245828009965
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_112
+  - first:
+      213: 5563185048260732312
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_113
+  - first:
+      213: -1100618619064722411
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_114
+  - first:
+      213: -8294745052771299226
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_115
+  - first:
+      213: 9094101835480512042
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_116
+  - first:
+      213: -7321830799047117244
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_117
+  - first:
+      213: 1712474346632959867
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_118
+  - first:
+      213: 99242833599745793
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_119
+  - first:
+      213: -7072444108646742704
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_120
+  - first:
+      213: -4744835579029471422
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_121
+  - first:
+      213: -1828589898816060498
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_122
+  - first:
+      213: -3013194798434491421
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_123
+  - first:
+      213: 6986075554315699084
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_124
+  - first:
+      213: -6792395123134613203
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_125
+  - first:
+      213: -6359951746813330823
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_126
+  - first:
+      213: 3900649407796516429
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_127
+  - first:
+      213: -1340799425181191408
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_128
+  - first:
+      213: 4417102072633738338
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_129
+  - first:
+      213: 6035559962098329216
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_130
+  - first:
+      213: 8501467602393284569
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_131
+  - first:
+      213: -1785377206129855860
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_132
+  - first:
+      213: -8632939197589861225
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_133
+  - first:
+      213: 8134816699582320507
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_134
+  - first:
+      213: 4448798652886578324
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_135
+  - first:
+      213: 1044264508059740079
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_136
+  - first:
+      213: 5034415881340074285
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_137
+  - first:
+      213: 7764295030436707527
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_138
+  - first:
+      213: 4887200128938042624
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_139
+  - first:
+      213: -6179217567927062777
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_140
+  - first:
+      213: 3338710916525802939
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_141
+  - first:
+      213: -4829237260447675266
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_142
+  - first:
+      213: -5672624750742066792
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_143
+  - first:
+      213: -6189157069468448915
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_144
+  - first:
+      213: 4972958713991851714
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_145
+  - first:
+      213: 6846877591668810912
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_146
+  - first:
+      213: -7611698159177923871
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_147
+  - first:
+      213: -6361422845204888924
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_148
+  - first:
+      213: -8436129894922097297
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_149
+  - first:
+      213: 5743341274500734341
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_150
+  - first:
+      213: 4905627076858952262
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_151
+  - first:
+      213: 8378139529668355597
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_152
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2945
+        width: 282
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeb973878ae9c610800000000000000
+      internalID: 1642101406900534971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_1
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2944
+        width: 282
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1ba7ba370c78130800000000000000
+      internalID: 3569032832745124260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_2
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2944
+        width: 282
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae9d1578fe0f3650800000000000000
+      internalID: 6214702471074127532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_3
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2943
+        width: 282
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eaccb90e2daf62e0800000000000000
+      internalID: -2130293685479486747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_4
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2944
+        width: 265
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58444a65e214bda60800000000000000
+      internalID: 7699819655197901957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_5
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2944
+        width: 265
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7178e32e3696330800000000000000
+      internalID: 3704601991851743171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_6
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 2943
+        width: 380
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c690ae11a7bec30800000000000000
+      internalID: 4389736479162199082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_7
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 2944
+        width: 282
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96efe6d475c413ec0800000000000000
+      internalID: -3589003490192589207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_8
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 2945
+        width: 265
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce89ebc2f89c03550800000000000000
+      internalID: 6138627908874180844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_9
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 2944
+        width: 265
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264cd54ce16baa6b0800000000000000
+      internalID: -5284210969506102174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_10
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2879
+        width: 142
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3166d6542de1a3760800000000000000
+      internalID: 7438291623012558355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_11
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 2879
+        width: 120
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28648c3383e793820800000000000000
+      internalID: 2898486615041656450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_12
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 2879
+        width: 125
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77da77c6035129ad0800000000000000
+      internalID: -2697069929119109769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_13
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 2879
+        width: 125
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66928cd93baf5570800000000000000
+      internalID: 8457666890226112107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_14
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 2879
+        width: 120
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5016cdc5e5fa190800000000000000
+      internalID: -7949031064358287930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_15
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 2879
+        width: 142
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26e735f83e7d5f30800000000000000
+      internalID: 4565944380320900652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2367
+        width: 283
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951d54a3f1fabdc40800000000000000
+      internalID: 5538212715438657881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_17
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2368
+        width: 283
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d1be40c4ec90670800000000000000
+      internalID: 8505556197161246014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_18
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2303
+        width: 142
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6861e6da8095b78a0800000000000000
+      internalID: -6306348959397964154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_19
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2368
+        width: 283
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457124332c0dcadd0800000000000000
+      internalID: -2473372562831042732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_20
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 2303
+        width: 121
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20aaafd8114c5990800000000000000
+      internalID: -7395964912961675222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_21
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2368
+        width: 283
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5468f965d9f20f6b0800000000000000
+      internalID: -5264655611586443707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_22
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 2303
+        width: 127
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc976b6b67a7c390800000000000000
+      internalID: -7798080149963432745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_23
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 2368
+        width: 250
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c25fdc0f569fa30800000000000000
+      internalID: 4249539808322727066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_24
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 2303
+        width: 126
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3314a67a2ae7e000800000000000000
+      internalID: 65278187720151869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_25
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 2368
+        width: 250
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799e97fb2d96d23c0800000000000000
+      internalID: -4382730508485138025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_26
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2303
+        width: 121
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863053c3d62201980800000000000000
+      internalID: -8570312238329167000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_27
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 2368
+        width: 250
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb03ae6a951f6a610800000000000000
+      internalID: 1632257282323132604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_28
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 2303
+        width: 121
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dd63aa5ddc8c520800000000000000
+      internalID: 2722652292312915357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_29
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 2368
+        width: 283
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e56766736cdd610800000000000000
+      internalID: 1647690979932003865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_30
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 2303
+        width: 142
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3303748e80328a0800000000000000
+      internalID: -6331206857433009160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_31
+      rect:
+        serializedVersion: 2
+        x: 4226
+        y: 2368
+        width: 251
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e38a894772035400800000000000000
+      internalID: 311595510576874469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_32
+      rect:
+        serializedVersion: 2
+        x: 4738
+        y: 2368
+        width: 251
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502d5257c3a2f2f30800000000000000
+      internalID: 4552904187446678021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_33
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 2319
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed25659b949c37d0800000000000000
+      internalID: -2937309461005128209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1792
+        width: 282
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758186b6e49454b20800000000000000
+      internalID: 3117978918182197335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_35
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1792
+        width: 282
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5abe038b1bb7b10800000000000000
+      internalID: 1980371865812313547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_36
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1727
+        width: 142
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99476970222d41d50800000000000000
+      internalID: 6707216788659532953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_37
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1792
+        width: 282
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa9549ccb2908840800000000000000
+      internalID: 5224336907278064295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_38
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1727
+        width: 122
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e2743af633d8090800000000000000
+      internalID: -8030706005957988848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_39
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1792
+        width: 282
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0be2558f0c698c70800000000000000
+      internalID: 8973822546429537034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_40
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1727
+        width: 125
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f45e8e5259891a10800000000000000
+      internalID: 1880685306270602482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_41
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1792
+        width: 265
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a17b11821fbefb90800000000000000
+      internalID: -7206112267549838938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_42
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1727
+        width: 129
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd2a189a75be6a80800000000000000
+      internalID: -8471634310894834228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_43
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1792
+        width: 265
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe64857c8dcce590800000000000000
+      internalID: -7643508464403845445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_44
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 1727
+        width: 120
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07efeeda886cec30800000000000000
+      internalID: 4389998682434430734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_45
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 1792
+        width: 380
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfd8343470e2ace0800000000000000
+      internalID: -1395306144834461747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_46
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 1792
+        width: 282
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213b1dfffd384b8f0800000000000000
+      internalID: -525650258402626798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_47
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 1727
+        width: 142
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792317959459797f0800000000000000
+      internalID: -605851482592300393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_48
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1792
+        width: 266
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e8355277e5fc040800000000000000
+      internalID: 4670055204426845731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_49
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 1792
+        width: 266
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e0255f6a5caeac0800000000000000
+      internalID: -3825027612626776554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_50
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1216
+        width: 278
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09dbfc8436f901e0800000000000000
+      internalID: -2230981434821322484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_51
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1215
+        width: 278
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98876b449dab3f3f0800000000000000
+      internalID: -868144860828895095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_52
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1216
+        width: 278
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5b91cbd305cddf0800000000000000
+      internalID: -154160061158410767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_53
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1215
+        width: 279
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a80d97ac4e63e6a0800000000000000
+      internalID: -6421167368191539033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_54
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 1215
+        width: 279
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e5ac633af95bef0800000000000000
+      internalID: -92992693943509433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_55
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1215
+        width: 279
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8c2d0d833cb3720800000000000000
+      internalID: 2827067839894178011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_56
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 1216
+        width: 278
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add8f1e33a7247b60800000000000000
+      internalID: 7742857241432133082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_57
+      rect:
+        serializedVersion: 2
+        x: 3961
+        y: 1493
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168b9e945eea61e10800000000000000
+      internalID: 2168112570436270177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_58
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 1493
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd4ba59121b418d0800000000000000
+      internalID: -2876479504179835455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_59
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 1493
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c82cfc329de6ad0800000000000000
+      internalID: -2706987578170373045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_60
+      rect:
+        serializedVersion: 2
+        x: 4074
+        y: 1493
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf37db12a38e4000800000000000000
+      internalID: 22099780458463148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_61
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 1493
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5ba43b31e3269e0800000000000000
+      internalID: -1629671860821379622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_62
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 1493
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4849045f9de5e3d50800000000000000
+      internalID: 6718911984298923140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_63
+      rect:
+        serializedVersion: 2
+        x: 4227
+        y: 1493
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b122a1141c65e4550800000000000000
+      internalID: 6146945929428214299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_64
+      rect:
+        serializedVersion: 2
+        x: 4269
+        y: 1493
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a338c011997d87660800000000000000
+      internalID: 7383888641489929018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_65
+      rect:
+        serializedVersion: 2
+        x: 4341
+        y: 1493
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34819608658c54540800000000000000
+      internalID: 4991616035857176643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_66
+      rect:
+        serializedVersion: 2
+        x: 4382
+        y: 1493
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c83b796f77c6c760800000000000000
+      internalID: 7477883581339744450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_67
+      rect:
+        serializedVersion: 2
+        x: 4433
+        y: 1493
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4fd0ac6635461e0800000000000000
+      internalID: -2205546216563018566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_68
+      rect:
+        serializedVersion: 2
+        x: 4479
+        y: 1492
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28e80660ac547420800000000000000
+      internalID: 2626826326640224299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_69
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 1493
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f90e64d531afcac0800000000000000
+      internalID: -3832667505299682830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_70
+      rect:
+        serializedVersion: 2
+        x: 4570
+        y: 1493
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fc4e036c5bdc130800000000000000
+      internalID: 3588724340912607019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_71
+      rect:
+        serializedVersion: 2
+        x: 4621
+        y: 1493
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa29ab7a81c8ad240800000000000000
+      internalID: 4817316788947292847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_72
+      rect:
+        serializedVersion: 2
+        x: 4661
+        y: 1493
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5170b140c769df40800000000000000
+      internalID: 5753744074375983452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_73
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 1492
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832159cc39a3ec750800000000000000
+      internalID: 6327058932969050680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_74
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 1493
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38c938f2dfb0ede0800000000000000
+      internalID: -1305832979108870085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_75
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 1493
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eecee2f0517cd900800000000000000
+      internalID: 710567433704754920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_76
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 1493
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f362839797346e360800000000000000
+      internalID: 7198515243402143295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_77
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 1420
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81683312464f31a0800000000000000
+      internalID: -6827661260466134641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_78
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 1421
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84da283eb89d73670800000000000000
+      internalID: 8518516415035256136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_79
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 1421
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e3d4e92a1a8a330800000000000000
+      internalID: 3722402811834351121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_80
+      rect:
+        serializedVersion: 2
+        x: 4217
+        y: 1421
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b42c2c931f7e830800000000000000
+      internalID: 4100511216127069012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_81
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 1421
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582f006b819900c80800000000000000
+      internalID: -8358512576987860347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_82
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 1421
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2794ecf00c14ae200800000000000000
+      internalID: 210052625780853106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_83
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 1421
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d907c2a1eb9bde0800000000000000
+      internalID: -1316812396405154438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_84
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 1420
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d1212a4011c8d10800000000000000
+      internalID: 2129095435436039451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_85
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 1421
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a76070a5db61200800000000000000
+      internalID: 150515831926061673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_86
+      rect:
+        serializedVersion: 2
+        x: 4512
+        y: 1421
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a48ffb0512027f0800000000000000
+      internalID: -639474516384789984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_87
+      rect:
+        serializedVersion: 2
+        x: 4559
+        y: 1421
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ffbcfe4a1ab0ea0800000000000000
+      internalID: -5905448756596441192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_88
+      rect:
+        serializedVersion: 2
+        x: 4601
+        y: 1416
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65cdb58929513040800000000000000
+      internalID: 4625576327158547819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_89
+      rect:
+        serializedVersion: 2
+        x: 4652
+        y: 1420
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053094055b3458640800000000000000
+      internalID: 5081542200572576592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_90
+      rect:
+        serializedVersion: 2
+        x: 4703
+        y: 1421
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31922a7bb73597240800000000000000
+      internalID: 4789951469512173843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_91
+      rect:
+        serializedVersion: 2
+        x: 4726
+        y: 1421
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87796857785976d0800000000000000
+      internalID: -2992263207803324533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_92
+      rect:
+        serializedVersion: 2
+        x: 4772
+        y: 1421
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8939415754174d0800000000000000
+      internalID: -3138651096141817652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_93
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 1421
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e643ae131c47e770800000000000000
+      internalID: 8639958055135692513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_94
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1349
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92335f5461dd43950800000000000000
+      internalID: 6428005655897256745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_95
+      rect:
+        serializedVersion: 2
+        x: 4262
+        y: 1348
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c283e9f99ddf9bd60800000000000000
+      internalID: 7906629731953293356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_96
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 1349
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a111a8795fa88caa0800000000000000
+      internalID: -6140505304505642726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_97
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 1348
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a3e422a7348d2b0800000000000000
+      internalID: -5559619548148254113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_98
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 1348
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730daa3dcb16d24c0800000000000000
+      internalID: -4310681804690763721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_99
+      rect:
+        serializedVersion: 2
+        x: 4451
+        y: 1349
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f993b84be510300800000000000000
+      internalID: 216558386613428091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_100
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 1348
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413b999734ede5330800000000000000
+      internalID: 3701640325129417492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_101
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 1349
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4188f6b306f141410800000000000000
+      internalID: 1446815878467258388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_102
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 1349
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd13c319ab15c140800000000000000
+      internalID: 4739224595872292284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_103
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 1349
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da516b6e00f1e320800000000000000
+      internalID: 2585611605809126100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_104
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 1362
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d291b9e19a52f70800000000000000
+      internalID: 9161914965871373626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_105
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 1349
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c46c8ea6f3a9220800000000000000
+      internalID: 2493375072107383946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_106
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 1277
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2228b6f7bdd615290800000000000000
+      internalID: -7903415081555492318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_107
+      rect:
+        serializedVersion: 2
+        x: 4259
+        y: 1276
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c010087c784faf0800000000000000
+      internalID: -363516378994373602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_108
+      rect:
+        serializedVersion: 2
+        x: 4331
+        y: 1277
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81d4d63e3e6c7fa0800000000000000
+      internalID: -5801641006473096817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_109
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 1276
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c66d56288d8d8220800000000000000
+      internalID: 2489801784904476358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_110
+      rect:
+        serializedVersion: 2
+        x: 4426
+        y: 1277
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609987103c3452850800000000000000
+      internalID: 6351557354298317062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_111
+      rect:
+        serializedVersion: 2
+        x: 4490
+        y: 1276
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9195317ee2228f0800000000000000
+      internalID: -566839033098331672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_112
+      rect:
+        serializedVersion: 2
+        x: 4533
+        y: 1277
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31089ea02b5e0bcb0800000000000000
+      internalID: -4850124245828009965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_113
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 1277
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895685d8357643d40800000000000000
+      internalID: 5563185048260732312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_114
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 1277
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c57718231d9b0f0800000000000000
+      internalID: -1100618619064722411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_115
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 1277
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660532b625523ec80800000000000000
+      internalID: -8294745052771299226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_116
+      rect:
+        serializedVersion: 2
+        x: 4708
+        y: 1290
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a263b0fcf6db43e70800000000000000
+      internalID: 9094101835480512042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_117
+      rect:
+        serializedVersion: 2
+        x: 4709
+        y: 1277
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44638455ea1a36a90800000000000000
+      internalID: -7321830799047117244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_118
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1151
+        width: 142
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77d60e585ee3c710800000000000000
+      internalID: 1712474346632959867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_119
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1151
+        width: 119
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f4733d4d4906100800000000000000
+      internalID: 99242833599745793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_120
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1151
+        width: 124
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0558e4afd81a9dd90800000000000000
+      internalID: -7072444108646742704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_121
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 1151
+        width: 142
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f305a1e25f62eb0800000000000000
+      internalID: -4744835579029471422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_122
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 640
+        width: 298
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea38331ec2b8f96e0800000000000000
+      internalID: -1828589898816060498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_123
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 575
+        width: 141
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3e140ab4bfe26d0800000000000000
+      internalID: -3013194798434491421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_124
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 641
+        width: 298
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83070de3b683f060800000000000000
+      internalID: 6986075554315699084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_125
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 575
+        width: 117
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2937778f909cb1a0800000000000000
+      internalID: -6792395123134613203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_126
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 640
+        width: 298
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97af09e2599ecb7a0800000000000000
+      internalID: -6359951746813330823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_127
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 575
+        width: 125
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d469c0948f3e12630800000000000000
+      internalID: 3900649407796516429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_128
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 640
+        width: 298
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013f603d606846de0800000000000000
+      internalID: -1340799425181191408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_129
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 640
+        width: 298
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264c9f7aee2bc4d30800000000000000
+      internalID: 4417102072633738338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_130
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 640
+        width: 298
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086e079cecd92c350800000000000000
+      internalID: 6035559962098329216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_131
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 640
+        width: 298
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfb42eddb74bf570800000000000000
+      internalID: 8501467602393284569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_132
+      rect:
+        serializedVersion: 2
+        x: 3257
+        y: 575
+        width: 144
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82fc8ee3e01937e0800000000000000
+      internalID: -1785377206129855860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_133
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 639
+        width: 365
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c4c100a83a13880800000000000000
+      internalID: -8632939197589861225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_134
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 575
+        width: 141
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f058b20bca4e070800000000000000
+      internalID: 8134816699582320507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_135
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 640
+        width: 365
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4947a86ddce4dbd30800000000000000
+      internalID: 4448798652886578324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_136
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 575
+        width: 119
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7e27e8909fd7e00800000000000000
+      internalID: 1044264508059740079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_137
+      rect:
+        serializedVersion: 2
+        x: 4726
+        y: 640
+        width: 365
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d293cd21296ddd540800000000000000
+      internalID: 5034415881340074285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_138
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 575
+        width: 124
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccb284713150cb60800000000000000
+      internalID: 7764295030436707527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_139
+      rect:
+        serializedVersion: 2
+        x: 5238
+        y: 639
+        width: 365
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005689faf92d2d340800000000000000
+      internalID: 4887200128938042624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_140
+      rect:
+        serializedVersion: 2
+        x: 5304
+        y: 575
+        width: 145
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70faad16c520f3aa0800000000000000
+      internalID: -6179217567927062777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_141
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 63
+        width: 265
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb54d3ba3eb755e20800000000000000
+      internalID: 3338710916525802939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_142
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 131
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c8fea4c4a1bfcb0800000000000000
+      internalID: -4829237260447675266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_143
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 63
+        width: 264
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8992ee318d9c641b0800000000000000
+      internalID: -5672624750742066792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_144
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d674c37df62bb1aa0800000000000000
+      internalID: -6189157069468448915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_145
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 63
+        width: 265
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceea2e3a9f730540800000000000000
+      internalID: 4972958713991851714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_146
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 0
+        width: 133
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a46000b4eef40f50800000000000000
+      internalID: 6846877591668810912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_147
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 63
+        width: 266
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e284bc4ad0dd5690800000000000000
+      internalID: -7611698159177923871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_148
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 63
+        width: 264
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2028560afa7b7a0800000000000000
+      internalID: -6361422845204888924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_149
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 63
+        width: 264
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d6d1e9e88dcea80800000000000000
+      internalID: -8436129894922097297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_150
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 0
+        width: 133
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d947aa57274bf40800000000000000
+      internalID: 5743341274500734341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_151
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 63
+        width: 293
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a37b4d5d9441440800000000000000
+      internalID: 4905627076858952262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_152
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 64
+        width: 363
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d066a805381254470800000000000000
+      internalID: 8378139529668355597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 08ac953b8b5e6234791e721f319a5704
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_0: 1642101406900534971
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_1: 3569032832745124260
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_10: 7438291623012558355
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_100: 3701640325129417492
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_101: 1446815878467258388
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_102: 4739224595872292284
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_103: 2585611605809126100
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_104: 9161914965871373626
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_105: 2493375072107383946
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_106: -7903415081555492318
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_107: -363516378994373602
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_108: -5801641006473096817
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_109: 2489801784904476358
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_11: 2898486615041656450
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_110: 6351557354298317062
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_111: -566839033098331672
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_112: -4850124245828009965
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_113: 5563185048260732312
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_114: -1100618619064722411
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_115: -8294745052771299226
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_116: 9094101835480512042
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_117: -7321830799047117244
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_118: 1712474346632959867
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_119: 99242833599745793
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_12: -2697069929119109769
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_120: -7072444108646742704
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_121: -4744835579029471422
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_122: -1828589898816060498
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_123: -3013194798434491421
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_124: 6986075554315699084
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_125: -6792395123134613203
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_126: -6359951746813330823
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_127: 3900649407796516429
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_128: -1340799425181191408
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_129: 4417102072633738338
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_13: 8457666890226112107
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_130: 6035559962098329216
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_131: 8501467602393284569
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_132: -1785377206129855860
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_133: -8632939197589861225
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_134: 8134816699582320507
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_135: 4448798652886578324
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_136: 1044264508059740079
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_137: 5034415881340074285
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_138: 7764295030436707527
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_139: 4887200128938042624
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_14: -7949031064358287930
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_140: -6179217567927062777
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_141: 3338710916525802939
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_142: -4829237260447675266
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_143: -5672624750742066792
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_144: -6189157069468448915
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_145: 4972958713991851714
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_146: 6846877591668810912
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_147: -7611698159177923871
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_148: -6361422845204888924
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_149: -8436129894922097297
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_15: 4565944380320900652
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_150: 5743341274500734341
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_151: 4905627076858952262
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_152: 8378139529668355597
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_16: 5538212715438657881
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_17: 8505556197161246014
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_18: -6306348959397964154
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_19: -2473372562831042732
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_2: 6214702471074127532
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_20: -7395964912961675222
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_21: -5264655611586443707
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_22: -7798080149963432745
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_23: 4249539808322727066
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_24: 65278187720151869
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_25: -4382730508485138025
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_26: -8570312238329167000
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_27: 1632257282323132604
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_28: 2722652292312915357
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_29: 1647690979932003865
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_3: -2130293685479486747
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_30: -6331206857433009160
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_31: 311595510576874469
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_32: 4552904187446678021
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_33: -2937309461005128209
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_34: 3117978918182197335
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_35: 1980371865812313547
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_36: 6707216788659532953
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_37: 5224336907278064295
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_38: -8030706005957988848
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_39: 8973822546429537034
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_4: 7699819655197901957
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_40: 1880685306270602482
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_41: -7206112267549838938
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_42: -8471634310894834228
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_43: -7643508464403845445
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_44: 4389998682434430734
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_45: -1395306144834461747
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_46: -525650258402626798
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_47: -605851482592300393
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_48: 4670055204426845731
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_49: -3825027612626776554
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_5: 3704601991851743171
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_50: -2230981434821322484
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_51: -868144860828895095
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_52: -154160061158410767
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_53: -6421167368191539033
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_54: -92992693943509433
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_55: 2827067839894178011
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_56: 7742857241432133082
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_57: 2168112570436270177
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_58: -2876479504179835455
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_59: -2706987578170373045
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_6: 4389736479162199082
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_60: 22099780458463148
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_61: -1629671860821379622
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_62: 6718911984298923140
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_63: 6146945929428214299
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_64: 7383888641489929018
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_65: 4991616035857176643
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_66: 7477883581339744450
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_67: -2205546216563018566
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_68: 2626826326640224299
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_69: -3832667505299682830
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_7: -3589003490192589207
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_70: 3588724340912607019
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_71: 4817316788947292847
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_72: 5753744074375983452
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_73: 6327058932969050680
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_74: -1305832979108870085
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_75: 710567433704754920
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_76: 7198515243402143295
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_77: -6827661260466134641
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_78: 8518516415035256136
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_79: 3722402811834351121
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_8: 6138627908874180844
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_80: 4100511216127069012
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_81: -8358512576987860347
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_82: 210052625780853106
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_83: -1316812396405154438
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_84: 2129095435436039451
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_85: 150515831926061673
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_86: -639474516384789984
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_87: -5905448756596441192
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_88: 4625576327158547819
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_89: 5081542200572576592
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_9: -5284210969506102174
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_90: 4789951469512173843
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_91: -2992263207803324533
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_92: -3138651096141817652
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_93: 8639958055135692513
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_94: 6428005655897256745
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_95: 7906629731953293356
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_96: -6140505304505642726
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_97: -5559619548148254113
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_98: -4310681804690763721
+      PlayStation 2 - Persona 3 - Bust-Ups - Junpei Iori_99: 216558386613428091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

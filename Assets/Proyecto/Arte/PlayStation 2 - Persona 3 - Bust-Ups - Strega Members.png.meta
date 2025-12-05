@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 043c1db77897b4c42bf0a9154c88ca92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5483566874413478467
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_0
+  - first:
+      213: -3589360284267753421
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_1
+  - first:
+      213: 3565364264425458074
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_2
+  - first:
+      213: 7387249280746869219
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_3
+  - first:
+      213: -6141287022807579581
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_4
+  - first:
+      213: 8416376046322285040
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_5
+  - first:
+      213: -3300469844405018661
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_6
+  - first:
+      213: 2667384509156686543
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_7
+  - first:
+      213: 6516594620962565611
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_8
+  - first:
+      213: 577576041999952398
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_9
+  - first:
+      213: 8544952120643704638
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_10
+  - first:
+      213: -4516186417144581914
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_11
+  - first:
+      213: -4973205969442364781
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_12
+  - first:
+      213: -2012210172048379696
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_13
+  - first:
+      213: -971805424957160642
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_14
+  - first:
+      213: -7930480799107134543
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_15
+  - first:
+      213: 8265590921727642462
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_16
+  - first:
+      213: 8221768050552948624
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_17
+  - first:
+      213: 2586809098352472225
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_18
+  - first:
+      213: -682905637869653836
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_19
+  - first:
+      213: 3908806335204668165
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_20
+  - first:
+      213: -637733420815914360
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_21
+  - first:
+      213: -1904981141508533638
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_22
+  - first:
+      213: 6634865556082790380
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_23
+  - first:
+      213: 4949679789965696142
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_24
+  - first:
+      213: 2805315070683874822
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_25
+  - first:
+      213: 8986387688735576826
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_26
+  - first:
+      213: -7765364564077149992
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_27
+  - first:
+      213: -2853100637572580495
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_28
+  - first:
+      213: 6477458894400553466
+    second: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1792
+        width: 318
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342b383e40b891c40800000000000000
+      internalID: 5483566874413478467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1727
+        width: 134
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3305355b6d7003ec0800000000000000
+      internalID: -3589360284267753421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1792
+        width: 318
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9983fb88e7ba7130800000000000000
+      internalID: 3565364264425458074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_3
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1727
+        width: 138
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e15d2ed418c48660800000000000000
+      internalID: 7387249280746869219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_4
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1792
+        width: 318
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34486dd9df3c5caa0800000000000000
+      internalID: -6141287022807579581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_5
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1792
+        width: 318
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f975291c69fcc470800000000000000
+      internalID: 8416376046322285040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1216
+        width: 385
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf9954c9206232d0800000000000000
+      internalID: -3300469844405018661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1151
+        width: 124
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaf9a32414740520800000000000000
+      internalID: 2667384509156686543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1216
+        width: 385
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bede1b708489f6a50800000000000000
+      internalID: 6516594620962565611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_9
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1151
+        width: 124
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aee2e9956f30800800000000000000
+      internalID: 577576041999952398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_10
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1216
+        width: 385
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3750bd3ea4c59670800000000000000
+      internalID: 8544952120643704638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_11
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1151
+        width: 124
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e037a2a1684351c0800000000000000
+      internalID: -4516186417144581914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 640
+        width: 430
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392298c158f9bfab0800000000000000
+      internalID: -4973205969442364781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 575
+        width: 129
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0f0a972813314e0800000000000000
+      internalID: -2012210172048379696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_14
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 640
+        width: 430
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3381a66d147382f0800000000000000
+      internalID: -971805424957160642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_15
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 575
+        width: 129
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbc92f0bb541f190800000000000000
+      internalID: -7930480799107134543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_16
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 640
+        width: 430
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b054c762745b270800000000000000
+      internalID: 8265590921727642462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_17
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 575
+        width: 129
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0974dde2b76991270800000000000000
+      internalID: 8221768050552948624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_18
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 640
+        width: 430
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a03c016b2136e320800000000000000
+      internalID: 2586809098352472225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_19
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 575
+        width: 129
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0faa7c0f4d586f0800000000000000
+      internalID: -682905637869653836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_20
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 640
+        width: 431
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503bba1f6aede3630800000000000000
+      internalID: 3908806335204668165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 64
+        width: 397
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a6fd625d05627f0800000000000000
+      internalID: -637733420815914360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 167
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72d09caeb52095e0800000000000000
+      internalID: -1904981141508533638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_23
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 60
+        width: 398
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef0acaf117c31c50800000000000000
+      internalID: 6634865556082790380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_24
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 0
+        width: 150
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cd5d06b8bc0b440800000000000000
+      internalID: 4949679789965696142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_25
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 64
+        width: 397
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606892f813b7ee620800000000000000
+      internalID: 2805315070683874822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_26
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 0
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af21701bdff06bc70800000000000000
+      internalID: 8986387688735576826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_27
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 64
+        width: 397
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d086c65212eb3490800000000000000
+      internalID: -7765364564077149992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_28
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 0
+        width: 164
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bbb052610c768d0800000000000000
+      internalID: -2853100637572580495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_29
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 54
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af180ff9b8e84e950800000000000000
+      internalID: 6477458894400553466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_0: 5483566874413478467
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_1: -3589360284267753421
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_10: 8544952120643704638
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_11: -4516186417144581914
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_12: -4973205969442364781
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_13: -2012210172048379696
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_14: -971805424957160642
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_15: -7930480799107134543
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_16: 8265590921727642462
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_17: 8221768050552948624
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_18: 2586809098352472225
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_19: -682905637869653836
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_2: 3565364264425458074
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_20: 3908806335204668165
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_21: -637733420815914360
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_22: -1904981141508533638
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_23: 6634865556082790380
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_24: 4949679789965696142
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_25: 2805315070683874822
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_26: 8986387688735576826
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_27: -7765364564077149992
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_28: -2853100637572580495
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_29: 6477458894400553466
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_3: 7387249280746869219
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_4: -6141287022807579581
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_5: 8416376046322285040
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_6: -3300469844405018661
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_7: 2667384509156686543
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_8: 6516594620962565611
+      PlayStation 2 - Persona 3 - Bust-Ups - Strega Members_9: 577576041999952398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
