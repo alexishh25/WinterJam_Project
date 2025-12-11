@@ -15,7 +15,14 @@ public class Trans_Controller : MonoBehaviour
 
     public void CambiarIdioma(int localeID)
     {
-        if (activo)
+        if (localeID >= LocalizationSettings.AvailableLocales.Locales.Count)
+        {
+            Debug.LogError($"ID de Localización {localeID} fuera de rango.");
+            return;
+        }
+        var requestedLocale = LocalizationSettings.AvailableLocales.Locales[localeID];
+
+        if (activo && LocalizationSettings.SelectedLocale == requestedLocale)
             return;
         StartCoroutine(Change(localeID));
     }
