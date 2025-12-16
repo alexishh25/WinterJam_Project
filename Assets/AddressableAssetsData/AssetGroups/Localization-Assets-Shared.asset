@@ -15,6 +15,12 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Shared
   m_GUID: dc44f6b584df0b94aa458133d61cd78b
   m_SerializeEntries:
+  - m_GUID: 2cb5780ad25a1464c811e86a9fd4117a
+    m_Address: Assets/Proyecto/Localizacion/Tablas/UI/Quick Menu/QM_Historia Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 35759ac3605c19440b49dcb2b0a2da34
     m_Address: Assets/Proyecto/Localizacion/Tablas/Tabla 1 Shared Data.asset
     m_ReadOnly: 1
