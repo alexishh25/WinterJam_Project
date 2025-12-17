@@ -24,7 +24,7 @@ public class AudioManager : MonoBehaviour
             Destroy(gameObject);
     }
     public void ReproducirClick() => ReproducirSonido(sonido_click);
-    public void ReproducirHover() => ReproducirSonido(sonido_hover);
+    public void ReproducirHover() => ReproducirSonidoConInterrupcion(sonido_hover);
 
     private void ReproducirSonido(AudioClip clip)
     {

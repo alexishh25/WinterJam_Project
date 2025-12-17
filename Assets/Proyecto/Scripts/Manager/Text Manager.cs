@@ -11,5 +11,13 @@ public class TextArquitetch : MonoBehaviour
 
     public string currentText => tmpro.text;
 
-    public string targetText { get; private set;}
+    public string targetText { get; private set; } = "";
+    public string preText { get; private set; } = "";
+    public int preTextLength = 0;
+
+    public string fullTargetText => preText + targetText;
+
+    public enum BuildMethod { instant, typewriter, desvanecer}
+
+    public BuildMethod buildMethod = BuildMethod.typewriter;
 }
