@@ -43,4 +43,16 @@ public class TimelineManager : MonoBehaviour
         Debug.Log("Signal recibido en TimelineManager. Cambiando a la escena: " + nombresiguientescena);
         SceneManager.LoadScene(nombresiguientescena);
     }
+
+    public void PausarTimeline()
+    {
+        if (director != null)
+            director.Pause();
+    }
+
+    public void ResumirTimeline()
+    {
+        if (director != null)
+            director.Play();
+    }
 }

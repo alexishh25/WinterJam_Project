@@ -1,12 +1,15 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using UnityEngine.Events;
 
 public class ButtonController : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler
 {
     public enum CursorType { Normal, Linked }
-
     public CursorType cursorType = CursorType.Normal;
+
+    [Header("Eventos de Unity")]
+    public UnityEvent ClickEvent;
 
     public void OnPointerEnter(PointerEventData eventData)
     {
@@ -21,5 +24,6 @@ public class ButtonController : MonoBehaviour, IPointerEnterHandler, IPointerExi
     public void OnPointerClick(PointerEventData eventData)
     {
         AudioManager.Instance.ReproducirClick();
+        ClickEvent?.Invoke();
     }
 }
