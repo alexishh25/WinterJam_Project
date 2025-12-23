@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42df2d707d0165645b4264e4c89e99cc, type: 3}
+  m_Name: Escena 1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lineas:
+  - speakerName: 
+    text: Uff que cansado fue llegar hasta aqui
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 0}
+  - speakerName: 
+    text: Supongo que ya es navidad y aun tengo muchas cosas por hacer, me gustaria
+      de algun modo seguri para adelante
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 0}
+  - speakerName: 
+    text: Me pregunto si las personas estan buscando ese vaso de chocolate que tanto
+      quise
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 0}
+  - speakerName: 
+    text: La verdad seria muy triste si no esta
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 0}
