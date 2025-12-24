@@ -6,6 +6,7 @@ using UnityEngine.Localization.Components;
 public class DialogueContainer
 {
     public GameObject root;
-    public LocalizeStringEvent nameLocalize, dialogueLocalize;
+    public TMP_Text nameLocalize;
+    public LocalizeStringEvent dialogueLocalize;
     public TMP_Text nameText, dialogueText;
 }

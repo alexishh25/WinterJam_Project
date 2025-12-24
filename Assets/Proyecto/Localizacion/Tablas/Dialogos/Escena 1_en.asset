@@ -50,7 +50,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1922933837824
-    m_Localized: This story was going to be great, I swear.
+    m_Localized: My creator was supposed to express himself emotionally or something
+      like that around December.
     m_Metadata:
       m_Items: []
   - m_Id: 2041280319488
@@ -77,6 +78,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2922323234816
     m_Localized: But I can introduce you to who my colleagues would be.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 189307143442432
+    m_Localized: Come on, come with me
     m_Metadata:
       m_Items: []
   references:

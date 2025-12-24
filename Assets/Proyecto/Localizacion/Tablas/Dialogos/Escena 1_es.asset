@@ -23,7 +23,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 228636348416
-    m_Localized: Supongo que ya es navidad, todos me estan esperando..
+    m_Localized: Supongo que ya es navidad, todos me estan esperando...
     m_Metadata:
       m_Items: []
   - m_Id: 452645736448
@@ -50,7 +50,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1922933837824
-    m_Localized: Esta historia iba a ser genial, te lo juro
+    m_Localized: Se supone que mi creador iba a expresarse emocionalmente o algo
+      asi por diciembre
     m_Metadata:
       m_Items: []
   - m_Id: 2041280319488
@@ -75,6 +76,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2922323234816
     m_Localized: "Pero si puedo presentarte a quienes serian mis compa\xF1eros"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 189307143442432
+    m_Localized: "Vamos, acompa\xF1ame"
     m_Metadata:
       m_Items: []
   references:

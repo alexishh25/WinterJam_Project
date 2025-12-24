@@ -13,21 +13,201 @@ MonoBehaviour:
   m_Name: Escena 1
   m_EditorClassIdentifier: Assembly-CSharp::DialogueData
   lineas:
+  - speakerName: Ale
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 8699629568
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 8505556197161246014, guid: 94fd57f292a9d0c49a2699e1b8b948c2, type: 3}
   - speakerName: 
-    text: Uff que cansado fue llegar hasta aqui
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 228636348416
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
     voiceClip: {fileID: 0}
     characterImage: {fileID: 0}
   - speakerName: 
-    text: Supongo que ya es navidad y aun tengo muchas cosas por hacer, me gustaria
-      de algun modo seguri para adelante
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 452645736448
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
     voiceClip: {fileID: 0}
     characterImage: {fileID: 0}
   - speakerName: 
-    text: Me pregunto si las personas estan buscando ese vaso de chocolate que tanto
-      quise
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 722326900736
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
     voiceClip: {fileID: 0}
     characterImage: {fileID: 0}
   - speakerName: 
-    text: La verdad seria muy triste si no esta
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 1025189203968
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
     voiceClip: {fileID: 0}
     characterImage: {fileID: 0}
+  - speakerName: 
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 1109477937152
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 0}
+  - speakerName: 
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 1228529061888
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 0}
+  - speakerName: 
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 1922933837824
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 0}
+  - speakerName: 
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 2041280319488
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 0}
+  - speakerName: 
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 2120602996736
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 0}
+  - speakerName: 
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 2202786189312
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 0}
+  - speakerName: 
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 2318007914496
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 0}
+  - speakerName: 
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 2345052786688
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 0}
+  - speakerName: 
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 2922323234816
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 0}
+  - speakerName: 
+    text:
+      m_TableReference:
+        m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
+      m_TableEntryReference:
+        m_KeyId: 189307143442432
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    position: 0
+    voiceClip: {fileID: 0}
+    characterImage: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
