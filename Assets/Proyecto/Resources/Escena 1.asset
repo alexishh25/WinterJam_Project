@@ -23,7 +23,7 @@ MonoBehaviour:
       m_FallbackState: 0
       m_WaitForCompletion: 0
       m_LocalVariables: []
-    position: 0
+    position: 1
     voiceClip: {fileID: 0}
     characterImage: {fileID: 8505556197161246014, guid: 94fd57f292a9d0c49a2699e1b8b948c2, type: 3}
   - speakerName: 

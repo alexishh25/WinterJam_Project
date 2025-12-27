@@ -3,6 +3,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 using static DialogueData;
+using static VNController;
 
 [ExecuteAlways]
 public class VNController : MonoBehaviour
@@ -14,23 +15,55 @@ public class VNController : MonoBehaviour
 
     private int currentLineIndex = 0;
 
-    [Header("Referencias de UI")]
-    [SerializeField] private RectTransform characterTransform; 
-    [SerializeField] private RectTransform dialogueTransform; 
+    [Header("Character UI")]
+    [SerializeField] private RectTransform characterTransform;
 
-    // Definimos las posiciones fijas (puedes ajustarlas en el Inspector)
-    [Header("Configuración de Character")]
-    [SerializeField] private Vector2 C_anchormin = new Vector2(0, 0);
-    [SerializeField] private Vector2 C_anchormax = new Vector2(0, 0);
+    [Header("Dialogue UI")]
+    [SerializeField] private RectTransform dialogueRoot;
+    [SerializeField] private RectTransform dialogueBackground;
+    [SerializeField] private RectTransform dialogueText;
+    [SerializeField] private RectTransform dialoguenameText;
 
-    [Header("Configuracion de TextBox")]
-    [SerializeField] private Vector2 T_anchormin = new Vector2(0, 0);
-    [SerializeField] private Vector2 T_anchormax = new Vector2(0, 0);
+    [System.Serializable]
+    public struct RectPreset
+    {
+        public Vector2 anchorMin;
+        public Vector2 anchorMax;
+        public Vector2 anchoredPosition;
+        public Vector2 sizeDelta;
+    }
+
+    [System.Serializable]
+    public struct DialogueLayoutPreset
+    {
+        [Header("Dialogue Root")]
+        public RectPreset root;
+
+        [Header("Dialogue Children")]
+        public RectPreset textbox;
+        public RectPreset NameText;
+        public RectPreset DialogueText;
+        public RectPreset Pointer;
+    }
+
+    [System.Serializable]
+    public struct VNLayoutPreset
+    {
+        [Header("Character (simple)")]
+        public RectPreset character;
+
+        [Header("Dialogue (composed)")]
+        public DialogueLayoutPreset dialogue;
+    }
+
+    [Header("Presets")]
+    [SerializeField] private RectPreset characterLeft;
+    [SerializeField] private RectPreset characterRight;
+    [SerializeField] private RectPreset dialogueLeft;
+    [SerializeField] private RectPreset dialogueRight;
 
     private void Start()
     {
-        C_anchormin = new Vector2(characterTransform.anchorMin.x, characterTransform.anchorMax.x);
-
         dialogueContainer.root.SetActive(true);
         currentLineIndex = 0;
         ShowLine();
@@ -77,7 +110,7 @@ public class VNController : MonoBehaviour
 
     private void MoverUI(bool izquierda)
     {
-        if (characterTransform == null || dialogueTransform == null) return;
+        if (characterTransform == null || dialogueRoot == null) return;
 
         if (izquierda)
         {
@@ -99,23 +132,60 @@ public class VNController : MonoBehaviour
         }
     }
 
+    private void ApplyPreset(RectTransform rt, RectPreset preset)
+    {
+        if (rt == null) return;
+
+        rt.anchorMin = preset.anchorMin;
+        rt.anchorMax = preset.anchorMax;
+        rt.anchoredPosition = preset.anchoredPosition;
+        rt.sizeDelta = preset.sizeDelta;
+    }
+
+    private void ApplyDialogueLayout(DialogueLayoutPreset preset)
+    {
+        ApplyPreset(dialogueRoot, preset.root);
+        ApplyPreset(dialogueBackground, preset.textbox);
+        ApplyPreset(dialogueText, preset.DialogueText);
+        ApplyPreset(dialoguenameText, preset.NameText);
+    }
+
+    private void ApplyVNLayout(VNLayoutPreset layout)
+    {
+        ApplyPreset(characterTransform, layout.character);
+        ApplyDialogueLayout(layout.dialogue);
+    }
+
+    [SerializeField] private VNLayoutPreset leftLayout;
+    [SerializeField] private VNLayoutPreset rightLayout;
+
     private void Edicion()
     {
+        DialogueLine line = dialogueData.lineas[currentLineIndex];
 
+        if (line.position == CharacterSide.Izquierda)
+            ApplyVNLayout(leftLayout);
+        else
+            ApplyVNLayout(rightLayout);
     }
 
 
-    #if UNITY_EDITOR
+
+#if UNITY_EDITOR
     private void OnValidate()
     {
-        // Esto permite que al mover sliders o cambiar la línea en el Inspector, la Scene se actualice
-        if (dialogueData != null && characterTransform != null && dialogueTransform != null)
+        if (!Application.isPlaying)
         {
-            if (currentLineIndex >= 0 && currentLineIndex < dialogueData.lineas.Length)
-            {
-                Edicion();
-            }
+            UnityEditor.EditorApplication.delayCall += ApplyEdicionSafe;
         }
     }
-    #endif
+#endif
+
+#if UNITY_EDITOR
+    private void ApplyEdicionSafe()
+    {
+        if (this == null) return; // objeto destruido
+        Edicion();
+    }
+#endif
 }
