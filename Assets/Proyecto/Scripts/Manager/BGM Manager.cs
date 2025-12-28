@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.Audio;
 
 public class BGMManager : MonoBehaviour
 {
@@ -8,6 +9,8 @@ public class BGMManager : MonoBehaviour
     [Header("Configuracion")]
     [SerializeField] private AudioSource bgmSource;
     [SerializeField] private float fadeDuration = 1.5f;
+
+    private bool isMuted = false;
 
     private Coroutine fadeCoroutine;
 
@@ -41,6 +44,16 @@ public class BGMManager : MonoBehaviour
         fadeCoroutine = StartCoroutine(FadeTransition(newClip, fadeTime));
     }
 
+    public void AlternarMute()
+    {
+        isMuted = !isMuted;
+
+        if (isMuted)
+            bgmSource.volume = 0;
+        else
+            bgmSource.volume = 1;
+    }
+
     public IEnumerator FadeTransition(AudioClip newClip, float duration)
     {
         if (bgmSource.isPlaying)
@@ -60,6 +73,29 @@ public class BGMManager : MonoBehaviour
                 bgmSource.volume = Mathf.Lerp(0, startVolume, t / duration);
                 yield return null;
             }
+        }
+    }
+
+    public void FadingBGM(float duracion = 2.0f)
+    {
+        if (fadeCoroutine != null) StopCoroutine(fadeCoroutine);
+        fadeCoroutine = StartCoroutine(FadingCorrutina(duracion));
+    }
+
+    public IEnumerator FadingCorrutina(float duracion)
+    {
+        if (bgmSource.isPlaying)
+        {
+            float volumeninicial = bgmSource.volume;
+
+            for (float t = 0; t < duracion; t += Time.deltaTime)
+            {
+                bgmSource.volume = Mathf.Lerp(volumeninicial, 0, t / duracion);
+                yield return null;
+            }
+            bgmSource.volume = 0;
+            bgmSource.Stop();
+            bgmSource.volume = volumeninicial;
         }
     }
 }

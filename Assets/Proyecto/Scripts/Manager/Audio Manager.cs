@@ -13,6 +13,8 @@ public class AudioManager : MonoBehaviour
     [SerializeField] private AudioClip sonido_hover;
     [SerializeField] private AudioClip sonido_click;
 
+    private bool isMuted = false;
+
     private void Awake()
     {
         if (audiosource == null)
@@ -36,6 +38,15 @@ public class AudioManager : MonoBehaviour
         }
         else if (clip == null)
             Debug.LogWarning($"AudioManager: El clip de audio '{clip.name}' es nulo");
+    }
+
+    public void AlternarMute()
+    {
+        isMuted = !isMuted;
+        if (isMuted)
+            audiosource.volume = 0;
+        else
+            audiosource.volume = 1;
     }
 
     private void ReproducirSonidoConInterrupcion(AudioClip clip)

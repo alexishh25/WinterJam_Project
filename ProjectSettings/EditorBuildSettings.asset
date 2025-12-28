@@ -9,11 +9,11 @@ EditorBuildSettings:
     path: Assets/Proyecto/Scenes/Intro.unity
     guid: bd73ffde24ec862418ee3f7de5a24cde
   - enabled: 1
-    path: Assets/Proyecto/Scenes/Principal.unity
-    guid: 1c0ea145874a0378c8ba20bee2065819
-  - enabled: 1
     path: Assets/Proyecto/Scenes/Main Menu.unity
     guid: e125d62b3730c6944a168bc10559d015
+  - enabled: 1
+    path: Assets/Proyecto/Scenes/Visual Novel.unity
+    guid: deb95ffb7ee495a4ba24f199e9259117
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 37d342191c99e484c918f6e4d05dafb0, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

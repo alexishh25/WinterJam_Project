@@ -495,7 +495,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 405347979}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &405347979
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -549,7 +561,31 @@ MonoBehaviour:
   cursorType: 0
   ClickEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1673178227}
+        m_TargetAssemblyTypeName: TimelineManager, Assembly-CSharp
+        m_MethodName: ResumirTimeline
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 907050694}
+        m_TargetAssemblyTypeName: BGMManager, Assembly-CSharp
+        m_MethodName: FadingBGM
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 2
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &429630353
 GameObject:
   m_ObjectHideFlags: 0
@@ -1044,6 +1080,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4892138013786504537, guid: b1307c081a86c424ca37e6738e374853, type: 3}
   m_PrefabInstance: {fileID: 907050692}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &907050694 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3751488640938684494, guid: b1307c081a86c424ca37e6738e374853, type: 3}
+  m_PrefabInstance: {fileID: 907050692}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8d0741a2762fb14ca542ddc7ed4e1a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BGMManager
 --- !u!4 &938257822 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1037244279078774428, guid: dfc4394156fad0d429519efd41f1c12e, type: 3}
@@ -6519,6 +6566,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1673178226}
   - component: {fileID: 1673178225}
+  - component: {fileID: 1673178228}
+  - component: {fileID: 1673178227}
   m_Layer: 0
   m_Name: Menu Cinematic
   m_TagString: Untagged
@@ -6543,6 +6592,8 @@ PlayableDirector:
   m_SceneBindings:
   - key: {fileID: -8726938705280956303, guid: 4e30c89bbc2b8f749accca45d64775df, type: 2}
     value: {fileID: 1667765871}
+  - key: {fileID: 8036389122503695670, guid: 4e30c89bbc2b8f749accca45d64775df, type: 2}
+    value: {fileID: 1673178228}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &1673178226
@@ -6560,6 +6611,64 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1673178227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1673178224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f92c4b578ec951045bb630982e72dbff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TimelineManager
+  nombresiguientescena: Visual Novel
+--- !u!114 &1673178228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1673178224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.Timeline::UnityEngine.Timeline.SignalReceiver
+  m_Events:
+    m_Signals:
+    - {fileID: 11400000, guid: c23ab900998c59b4a8d0258e2b8d2803, type: 2}
+    - {fileID: 11400000, guid: 9b0c42c8a038c204aaf5cbaf94a117a1, type: 2}
+    m_Events:
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1673178227}
+          m_TargetAssemblyTypeName: TimelineManager, Assembly-CSharp
+          m_MethodName: PausarTimeline
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1673178227}
+          m_TargetAssemblyTypeName: TimelineManager, Assembly-CSharp
+          m_MethodName: LoadNextScene
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
 --- !u!1 &1682442698
 GameObject:
   m_ObjectHideFlags: 0
