@@ -78,6 +78,7 @@ public class BGMManager : MonoBehaviour
 
     public void FadingBGM(float duracion = 2.0f)
     {
+        if (bgmSource.volume == 0) return;
         if (fadeCoroutine != null) StopCoroutine(fadeCoroutine);
         fadeCoroutine = StartCoroutine(FadingCorrutina(duracion));
     }
