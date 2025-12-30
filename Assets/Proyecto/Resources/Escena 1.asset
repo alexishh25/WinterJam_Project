@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Escena 1
   m_EditorClassIdentifier: Assembly-CSharp::DialogueData
   lineas:
-  - speakerName: Ale
+  - speakerName: Dude 1
     text:
       m_TableReference:
         m_TableCollectionName: GUID:70e2fd8542660d44b85cb2787fcfeb54
@@ -38,7 +38,7 @@ MonoBehaviour:
       m_LocalVariables: []
     position: 0
     voiceClip: {fileID: 0}
-    characterImage: {fileID: 0}
+    characterImage: {fileID: 4249539808322727066, guid: 94fd57f292a9d0c49a2699e1b8b948c2, type: 3}
   - speakerName: 
     text:
       m_TableReference:
@@ -51,7 +51,7 @@ MonoBehaviour:
       m_LocalVariables: []
     position: 0
     voiceClip: {fileID: 0}
-    characterImage: {fileID: 0}
+    characterImage: {fileID: 4249539808322727066, guid: 94fd57f292a9d0c49a2699e1b8b948c2, type: 3}
   - speakerName: 
     text:
       m_TableReference:
@@ -64,7 +64,7 @@ MonoBehaviour:
       m_LocalVariables: []
     position: 0
     voiceClip: {fileID: 0}
-    characterImage: {fileID: 0}
+    characterImage: {fileID: 4249539808322727066, guid: 94fd57f292a9d0c49a2699e1b8b948c2, type: 3}
   - speakerName: 
     text:
       m_TableReference:
@@ -77,7 +77,7 @@ MonoBehaviour:
       m_LocalVariables: []
     position: 0
     voiceClip: {fileID: 0}
-    characterImage: {fileID: 0}
+    characterImage: {fileID: 4249539808322727066, guid: 94fd57f292a9d0c49a2699e1b8b948c2, type: 3}
   - speakerName: 
     text:
       m_TableReference:
@@ -90,7 +90,7 @@ MonoBehaviour:
       m_LocalVariables: []
     position: 0
     voiceClip: {fileID: 0}
-    characterImage: {fileID: 0}
+    characterImage: {fileID: 1632257282323132604, guid: 94fd57f292a9d0c49a2699e1b8b948c2, type: 3}
   - speakerName: 
     text:
       m_TableReference:
@@ -103,7 +103,7 @@ MonoBehaviour:
       m_LocalVariables: []
     position: 0
     voiceClip: {fileID: 0}
-    characterImage: {fileID: 0}
+    characterImage: {fileID: -4382730508485138025, guid: 94fd57f292a9d0c49a2699e1b8b948c2, type: 3}
   - speakerName: 
     text:
       m_TableReference:

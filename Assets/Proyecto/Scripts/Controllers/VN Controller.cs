@@ -1,3 +1,4 @@
+using System.Collections;
 using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -36,10 +37,12 @@ public class VNController : MonoBehaviour
 
     private void Update()
     {
-        if (Keyboard.current.spaceKey.wasPressedThisFrame || Mouse.current.leftButton.wasPressedThisFrame)
+        if (Keyboard.current.spaceKey.wasPressedThisFrame)
             AdvanceDialogue();
     }
 
+    private Coroutine typingCoroutine;
+    [SerializeField] float textoTipoSpeed = 0.02f;
     private void ShowLine()
     {
         DialogueLine line = dialogueData.lineas[currentLineIndex];
@@ -57,19 +60,33 @@ public class VNController : MonoBehaviour
         {
             GetComponent<AudioSource>().PlayOneShot(line.voiceClip);
         }
+
+        if (typingCoroutine != null) StopCoroutine(typingCoroutine);
+
+        typingCoroutine = StartCoroutine(TextoTipo(line.text.GetLocalizedString(), textoTipoSpeed));
     }
 
-    private void AdvanceDialogue()
+    IEnumerator TextoTipo(string text_completo, float tiempo)
+    {
+        dialogueContainer.dialogueText.text = "";
+
+        foreach (char letra in text_completo.ToCharArray())
+        {
+            dialogueContainer.dialogueText.text += letra;
+            yield return new WaitForSecondsRealtime(tiempo);
+        }
+    }
+
+    public void AdvanceDialogue()
     {
         currentLineIndex++;
 
         if (currentLineIndex < dialogueData.lineas.Length)
-        {
             ShowLine();
-        }
         else
         {
             dialogueContainer.root.SetActive(false);
+            PrefabManager.Instance.GenerarPrefab("ScreenFinal");
         }
     }
 

@@ -3,11 +3,6 @@ using UnityEngine.SceneManagement;
 
 public class MenuNavi : MonoBehaviour
 {
-    void Start()
-    {
-        
-    }
-
     public void Jugar() => SceneManager.LoadScene("Visual Novel");
 
     public void Salir() => Application.Quit();

@@ -12,6 +12,7 @@ public class AudioManager : MonoBehaviour
 
     [SerializeField] private AudioClip sonido_hover;
     [SerializeField] private AudioClip sonido_click;
+    [SerializeField] private AudioClip next;
 
     private bool isMuted = false;
 
@@ -27,6 +28,8 @@ public class AudioManager : MonoBehaviour
     }
     public void ReproducirClick() => ReproducirSonido(sonido_click);
     public void ReproducirHover() => ReproducirSonidoConInterrupcion(sonido_hover);
+
+    public void ReproducirNext() => ReproducirSonido(next);
 
     private void ReproducirSonido(AudioClip clip)
     {

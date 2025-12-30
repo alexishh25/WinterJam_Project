@@ -82,6 +82,14 @@ MonoBehaviour:
     m_Localized: "Vamos, acompa\xF1ame"
     m_Metadata:
       m_Items: []
+  - m_Id: 2487723363418112
+    m_Localized: FIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2487794700140544
+    m_Localized: Musica hecha por...
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class ButtonController : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler
 {
-    public enum CursorType { Normal, Linked }
+    public enum CursorType { Normal, Linked, Grab, GrabHover }
     public CursorType cursorType = CursorType.Normal;
 
     [Header("Eventos de Unity")]
@@ -13,8 +13,23 @@ public class ButtonController : MonoBehaviour, IPointerEnterHandler, IPointerExi
 
     public void OnPointerEnter(PointerEventData eventData)
     {
-        AudioManager.Instance.ReproducirHover();
-        CursorManager.Instance.SetLinkedCursor();
+        switch (cursorType)
+        {
+            case CursorType.Normal:
+                AudioManager.Instance.ReproducirHover();
+                CursorManager.Instance.SetLinkedCursor();
+                break;
+            case CursorType.Grab:
+                // Suponiendo que tienes este método en tu CursorManager
+                CursorManager.Instance.SetGrabCursor();
+                break;
+            case CursorType.GrabHover:
+                CursorManager.Instance.SetGrabHoverCursor();
+                break;
+            default:
+                CursorManager.Instance.SetNormalCursor();
+                break;
+        }
     }
     public void OnPointerExit(PointerEventData eventData)
     {
@@ -23,7 +38,21 @@ public class ButtonController : MonoBehaviour, IPointerEnterHandler, IPointerExi
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        AudioManager.Instance.ReproducirClick();
-        ClickEvent?.Invoke();
+        switch (cursorType)
+        {
+            case CursorType.Normal:
+                AudioManager.Instance.ReproducirClick();
+                ClickEvent?.Invoke();
+                break;
+            case CursorType.Grab:
+                AudioManager.Instance.ReproducirNext();
+                ClickEvent?.Invoke();
+                break;
+            default:
+                
+                ClickEvent?.Invoke();
+                break;
+
+        }
     }
 }

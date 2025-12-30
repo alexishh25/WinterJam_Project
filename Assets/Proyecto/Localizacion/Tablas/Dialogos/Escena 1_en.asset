@@ -84,6 +84,14 @@ MonoBehaviour:
     m_Localized: Come on, come with me
     m_Metadata:
       m_Items: []
+  - m_Id: 2487723363418112
+    m_Localized: THE END
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2487794700140544
+    m_Localized: BGM is created by...
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -78,6 +78,10 @@ MonoBehaviour:
     m_Localized: Discord
     m_Metadata:
       m_Items: []
+  - m_Id: 8726433943797760
+    m_Localized: "Funci\xF3n a\xFAn sin asignar lol"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -48,6 +48,7 @@ MonoBehaviour:
   audiosource: {fileID: 2680319192196481522}
   sonido_hover: {fileID: 8300000, guid: 0481fa55eb0cb6d4fb659bcc07a80514, type: 3}
   sonido_click: {fileID: 8300000, guid: 39f627d5643093146a34392158cb1f04, type: 3}
+  next: {fileID: 8300000, guid: 0d266417911a2cd4a981740c6033d5d4, type: 3}
 --- !u!82 &2680319192196481522
 AudioSource:
   m_ObjectHideFlags: 0
