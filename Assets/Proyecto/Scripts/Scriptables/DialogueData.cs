@@ -1,8 +1,10 @@
 using System;
-using UnityEditor.Localization;
 using UnityEngine;
 using UnityEngine.Localization;
-using UnityEngine.UI;
+
+#if UNITY_EDITOR
+using UnityEditor.Localization;
+#endif
 
 [CreateAssetMenu(fileName = "Nuevo Dialogo", menuName = "Visual Novel / Script Diálogo")]
 public class DialogueData : ScriptableObject
